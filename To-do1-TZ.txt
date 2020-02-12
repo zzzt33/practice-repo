@@ -1,0 +1,43 @@
+Name: Tong Zhao
+Email: toz11@pitt.edu
+date:2020
+
+Name
+WordNet
+Authors
+Princeton University Department of Psychology and Computer Science. George A. Miller began the project.
+Christiane Fellbaum and Randee Tengi are current team members.
+URL
+https://wordnet.princeton.edu/download/current-version
+Markups
+WordNet is a lexical Database for English.
+Nouns, verbs, adjectives and adverbs are grouped into sets of cognitive synonyms (synsets).The indexes of datasets are also included.
+There are 117,000 of them that interlinked by means of conceptual-semantic and lexical relations.
+The most frequently encoded relation among synsets is the super-subordinate relation.
+Each synset contains a brief definition, also in most cases there are one or more short sentences illustrating the usage.
+License
+The WordNet license is available as the file LICENSE in any downloaded version of WordNet.
+The version now is 3.0 which was updated at 2006.
+Notes
+As the part of speech (POS) relation connects the majority of the synsets, there are few Cross-POS relations include the
+“morphosemantic” links that hold among semantically similar words sharing a stem with the same meaning.
+
+
+
+
+Name
+Stanford Question Answering Dataset (SQuAD)
+Authors
+Computer Science Department, Stanford University
+URL
+https://rajpurkar.github.io/SQuAD-explorer/
+Markups
+SQuAD is a reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles.
+The answers are segments of text or span including unanswerable ones.English is the domain language for this dataset.
+The latest version is SQuAD2.0 which combines the 100,000 questions in SQuAD1.1 with over 50,000 unanswerable questions.
+License
+It's distributed under the CC BY-SA 4.0 license.
+Notes
+Both the training set and development set are accessible. However, the test set is not available to preserve
+the integrity of test results.
+From the size of the development set, it could also be their validation set.
